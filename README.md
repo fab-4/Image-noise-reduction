@@ -1,2 +1,4 @@
 # Image-noise-reduction
-This project was made by Priyal and Ritik Jain in February. 
+Salt & Pepper Noise Reduction from Gray- Scale Images using Adaptive Median Filter
+Programming Language Used: Python
+Platform Used: Matlab
