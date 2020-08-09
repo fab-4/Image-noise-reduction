@@ -1,9 +1,7 @@
 # Image-noise-reduction
 Salt & Pepper Noise Reduction from Gray- Scale Images using Adaptive Median Filter
-Programming Language Used: Python
-Platform Used: Anaconda
-Library Used: OpenCV
 
+This project was made by Priyal Jain, Ritik Jain in Feb'2020 in Python programming language using OpenCV where platform used is Anaconda.
 
 Contributors :
 
